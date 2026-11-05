@@ -1,0 +1,15 @@
+{
+  "repository": "module-cms-localization-nuxt",
+  "capabilityKey": "planned:cms:localization",
+  "presentation": "nuxt-vue",
+  "package": "@liberusoftware/module-cms-localization-nuxt",
+  "foundation": "module-boilerplate-nuxt",
+  "foundationCommit": "79158f1285e465decdccea7fe7c80bf652abd114",
+  "canonicalPlan": "projects/cms/nextjs/localization.md",
+  "presentationPlan": "projects/cms/nuxt/localization.md",
+  "identityReviewRequired": false,
+  "status": "skeleton",
+  "documentedConsumerScopes": [
+    "cms"
+  ]
+}
